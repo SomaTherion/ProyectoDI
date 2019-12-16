@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProyectoDI</string>
+
+    <string name="app_icon_name">Gestion Bolera</string>
+
+    <string name="remove">Eliminar</string>
+    <string name="add">Añadir</string>
+
+    // Pistas
+    <string name="pista_number">Pista %d</string>
+
+    // Menus
+    <string name="add_menu">Añadir menú</string>
+    <string name="menu_credits">%s Euro/s</string>
+
+    // Transitions
+    <string name="transition_to_detail">transition_to_detail</string>
+
+</resources>
